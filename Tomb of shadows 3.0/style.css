@@ -1,0 +1,91 @@
+@font-face
+{
+    font-family: 'Bit';
+    src: url(Fonte/8-BIT\ WONDER.TTF) format(truetype);
+}
+
+body {
+    background-image: url('https://cdn1.epicgames.com/ue/product/Screenshot/DungeonPromo10-1920x1080-6f83e0451a7757f1d791efa21d49d8a5.jpg?resize=1&w=1920'); /* Substitua pelo caminho da sua imagem */
+    background-color: black;
+    color: white;
+    background-size: contain; /* Ajusta a imagem para cobrir todo o corpo, mantendo a proporção */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+}
+.hero{ 
+width: 10px; 
+height: 10px;
+
+}
+
+h1
+{
+font-family: 'Bit';
+text-align: center;
+
+}
+
+h2
+{
+    font-family: 'Bit';
+    position: relative;
+    top: -250px;
+}
+
+ul
+{
+    position: relative;
+    top: -250px;
+}
+
+.BB
+{
+    position: relative;
+    top: -500px;
+}
+
+.FF
+{
+    position: relative;
+    top: -500px;
+}
+
+p
+{
+    text-align: center;
+}
+
+div
+{
+    color: white;
+}
+
+table
+{
+    color: white;
+    margin: 0 auto;
+  
+}
+
+input
+{
+    background-color: black;
+    color: white;
+    font-family: 'Bit';
+    border: none;
+    font-size: larger;
+    margin: 0 auto;
+}
+
+input:hover
+{
+    text-decoration: underline ;
+    color: white;
+    background: 
+      linear-gradient(white, white)center bottom -1px /calc(100% - 10px) 2px no-repeat;
+}
+
+
+#TITULO
+{
+    color: #9BA4B5;
+}
